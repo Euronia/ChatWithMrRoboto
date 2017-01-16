@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">"Chat with Mister Roboto "</string>
+
+    <string name="connection_title">"Connection"</string>
+    <string name="connection_username">"Username"</string>
+    <string name="connection_password">"Password"</string>
+    <string name="connection_toast">Toast</string>
+    <string name="connection_toasted">Toasted</string>
+    <string name="connection_connected">Connected</string>
+    <string name="connection_noNetwork">No network available</string>
+
+    <string name="bonus2_name">"Waaaarp Zoooooone</string>
+    <string name="bonus2_a">"A"</string>
+    <string name="bonus2_b">"B"</string>
+    <string name="bonus2_c">"C"</string>
+    <string name="bonus2_d">"D"</string>
+    <string name="bonus2_e">"E"</string>
+    <string name="progress_message">Connecting to chat</string>
+</resources>
